@@ -1,0 +1,27 @@
+@charset "UTF-8"
+
+* {
+    margin: auto;
+}
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 100px;
+    margin: 300px;
+   
+}
+h1 {
+    color: brown;
+    
+
+}
+h2 {
+    background-color: blanchedalmond;
+}
+p {
+    text-align: justify;
+    min-width: 280px;
+    max-width: 800px;
+}
+  }

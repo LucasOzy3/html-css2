@@ -1,0 +1,110 @@
+@charset "UTF-8"
+
+body {
+
+    background-color: rgb(101, 116, 116);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+
+}
+main {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 10px 10px 50px blue;
+    border-radius: 15px;
+}
+header {
+background-color: rgb(162, 162, 197);
+margin: 0px;
+border-radius: 3px;
+box-shadow: 1px 1px 1px blueviolet;
+
+}
+article {
+    background-color: #00ffff;
+
+}
+article > aside {
+  background-color:#86dddd ;  
+  box-shadow: 10px 10px 10px black;
+}
+nav {
+    background-color: rgb(55, 177, 136);
+    
+
+}
+nav > a {
+    padding: 3px;
+    text-decoration: none;
+    
+}
+nav:hover {
+
+    color: brown;
+}
+
+footer {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    text-align: right;
+    padding: 4px;
+    margin: 0px;
+
+}
+footer > p {
+    margin: 0px;
+}
+.BB {
+    color: red;
+}
+div#bola{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-top: 10px;
+    border-radius: 50%;
+    animation: alternate;
+
+    
+    
+}
+div#bola:hover {
+    background-color: blue;
+    height: 90px;
+    width: 90px;
+
+    
+}
+div#bola02 {
+    height: 90px;
+    width: 90px;
+    background-color: #d3af0d;
+    margin-top: -111px;
+    border-radius: 52%;
+    margin-left: 5px;
+    text-decoration: solid;
+text-align: center;
+
+
+
+}
+
+div#bola02:hover{
+    background-color: aqua;
+}
+
+div#bola03 {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+   
+    
+
+}
+
+}                    
+

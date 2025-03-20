@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: AGA;
+    src: url('fonte/BebasNeue-Regular.ttf') format(truetype);
+}
+f
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1#principal {
+    color: brown;
+    text-align: center;
+    
+}
+h1 {
+    color: rgb(19, 211, 35);
+
+}
+#p { 
+    background-color: aqua;
+}
+h2 { 
+    color: rgb(13, 136, 24);
+}
+#G {
+    background-color: yellowgreen;
+    color: violet;
+  font-size: 50px;
+  font-weight: 200px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   border-top-left-radius: 30px;
+    border-left: 3px;
+    text-align: justify 30px;
+}
+#AA{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(0, 0, 116);
+    text-align: center;
+}
+.aprendendo {
+    background-color: rgba(1, 1, 148, 0.89);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 100px;
+    width: 1500px;
+   border-radius: 10px;
+    border-style: solid;
+    border-width: ; 
+}
+
+.paragrafo { font-family: 'AGA' ;
+    font-size: 3em;
+
+}
